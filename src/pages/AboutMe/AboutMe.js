@@ -4,14 +4,14 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col'
 import Button from 'react-bootstrap/Button'
 import Image from 'react-bootstrap/Image'
-import Profile from '../../assets/img/joti4.jpg';
+import Profile from '../../assets/img/profile/joti4.jpg';
 import './AboutMe.css';
 
 const AboutMe = () => {
     return (
         <div id="about">
       <div className="about">
-        <h1 className="pt-3 text-center font-details pb-3 text-bold">ABOUT ME</h1>
+        <h1 className="pt-3 text-center font-details pb-3">ABOUT ME</h1>
         <Container>
           <Row className="pt-3 pb-5 align-items-center">
             <Col xs={12} md={6}>

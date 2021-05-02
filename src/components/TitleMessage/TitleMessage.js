@@ -18,7 +18,7 @@ const MyTitleMessage = styled.h1`
     font-weight: 300;
     letter-spacing: 7px;
     .main {
-      font-size: 70px;
+      font-size: 50px;
     }
     .sub {
       font-size: 27px;

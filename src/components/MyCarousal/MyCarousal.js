@@ -1,9 +1,9 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 import "./MyCarousal.css";
-import firstOne from "../../assets/img/joti1.jpg";
-import secondOne from "../../assets/img/joti2.jpg";
-import thirdOne from "../../assets/img/joti3.jpg";
+import firstOne from "../../assets/img/carousal/joti2.jpg";
+import secondOne from "../../assets/img/carousal/joti3.jpg";
+import thirdOne from "../../assets/img/carousal/slide1.webp";
 import ScrollDown from "../ScrollDown/ScrollDown";
 
 const MyCarousal = () => {
